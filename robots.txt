@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-oqrnnf.indocuan.space/sitemap.xml
